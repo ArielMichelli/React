@@ -1,0 +1,15 @@
+
+/* DECORACION DE MYAPP */
+.app{
+  margin: 20px auto;
+  width: 40%;
+  border: solid 1px black;
+}
+.app h2{
+  text-decoration: underline;
+  padding: 10px;
+}
+.app img{
+  width: 100%;
+  height: 100%;
+}
